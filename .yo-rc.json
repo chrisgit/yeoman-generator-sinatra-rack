@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Chris Sullivan",
+      "authorEmail": "chrisgit",
+      "authorUrl": ""
+    }
+  }
+}
